@@ -46,8 +46,6 @@ class Listener(StreamListener):
 
 
 df_list = []
-# file_path = '/Users/vonno/PythonProject/ass2/mastodon.au.data'
-# old_file_num = len(glob('/Users/vonno/PythonProject/ass2/mastodon.au.data/*.csv'))
 parameter = {
     'file_path': '/Users/vonno/PythonProject/ass2/mastodon.au.data'
 }
